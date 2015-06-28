@@ -1,0 +1,3 @@
+SAGE is a graphics streaming architecture for supporting collaborative scientific visualization environments with potentially hundreds of megapixels of contiguous display resolution. In collaborative scientific visualization, it is crucial to share high-resolution imagery as well as high-definition video among groups of collaborators at local or remote sites.
+
+The network-centered architecture of SAGE allows collaborators to simultaneously run various applications (such as 3D rendering, remote desktop, video streams and 2D maps) on local or remote clusters, and share them by streaming the pixels of each application over ultra-high-speed networks to large tiled displays.
